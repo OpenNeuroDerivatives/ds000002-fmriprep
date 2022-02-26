@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/m7/p3/MD5E-s15953--eef9ea4bd1fc054b4cdefe4bbf746056.cmd/MD5E-s15953--eef9ea4bd1fc054b4cdefe4bbf746056.cmd
+/annex/objects/MD5E-s15953--eef9ea4bd1fc054b4cdefe4bbf746056.cmd
